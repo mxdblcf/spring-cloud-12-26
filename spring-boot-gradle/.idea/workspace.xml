@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="065a6447-8f0f-46d5-9db6-c3cb8489c159" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="270" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/first-spring-boot">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-dubbo-provider">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-dubbo-consumer">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-swagger">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-mongodb">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-monitor-server">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="spring-boot-gradle" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/opt/apache-maven-3.6.3-bin/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dfNAmqJqfQAuCZsMdoUEubKSDU" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/first-spring-boot/src/main/resources/static/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/first-spring-boot/src/main/resources/static/js" />
+      <recent name="$PROJECT_DIR$/first-spring-boot/src/main/resources/static/css/element/fonts" />
+      <recent name="$PROJECT_DIR$/first-spring-boot/src/main/resources/static/img" />
+      <recent name="$PROJECT_DIR$/first-spring-boot/src/main/resources/static/css" />
+      <recent name="$PROJECT_DIR$/first-spring-boot/src/main/resources/templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.easy.archiecture" />
+      <recent name="archiecture" />
+      <recent name="com.easy.archiecture.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/first-spring-boot/src/main/resources/static/css/img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.spring-boot-gradle [clean]">
+    <configuration name="spring-boot-gradle [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-gradle.spring-boot-kafka-comsumer.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.easy.archiecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easy.archiecture.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-gradle.first-spring-boot.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.easy.archiecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easy.archiecture.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-gradle.spring-boot-dubbo-consumer.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.easy.archiecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easy.archiecture.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-gradle.spring-boot-kafka-producer.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.easy.archiecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easy.archiecture.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DruidDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-gradle.spring-boot-druid.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easy.archiecture.DruidDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.spring-boot-gradle [clean]" />
+      <item itemvalue="Spring Boot.DruidDemoApplication" />
+      <item itemvalue="Spring Boot.Application (4)" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Spring Boot.Application (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application (2)" />
+        <item itemvalue="Gradle.spring-boot-gradle [clean]" />
+        <item itemvalue="Spring Boot.Application (1)" />
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.Application (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.27163854" />
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7e5e700" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7e5e700" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@62ba3b72" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="065a6447-8f0f-46d5-9db6-c3cb8489c159" name="Default Changelist" comment="" />
+      <created>1592812046067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592812046067</updated>
+      <workItem from="1592812048777" duration="3712000" />
+      <workItem from="1592831506392" duration="7254000" />
+      <workItem from="1592923345598" duration="362000" />
+      <workItem from="1592924808406" duration="2365000" />
+      <workItem from="1593329319651" duration="5210000" />
+      <workItem from="1593698513932" duration="3727000" />
+      <workItem from="1593741181835" duration="21000" />
+      <workItem from="1593790891240" duration="3268000" />
+      <workItem from="1593828453253" duration="6470000" />
+      <workItem from="1594564862860" duration="2844000" />
+      <workItem from="1594868507485" duration="196000" />
+      <workItem from="1595495365898" duration="1347000" />
+      <workItem from="1595862172080" duration="3747000" />
+      <workItem from="1595952316315" duration="2602000" />
+      <workItem from="1596037568254" duration="1674000" />
+      <workItem from="1596269065962" duration="9524000" />
+      <workItem from="1596332665201" duration="1068000" />
+      <workItem from="1596334146321" duration="355000" />
+      <workItem from="1596380584500" duration="3888000" />
+      <workItem from="1596466316008" duration="3555000" />
+      <workItem from="1596558035838" duration="599000" />
+      <workItem from="1596643634170" duration="719000" />
+      <workItem from="1596813070510" duration="1247000" />
+      <workItem from="1596851391700" duration="114000" />
+      <workItem from="1596877046424" duration="37000" />
+      <workItem from="1602336752102" duration="144000" />
+      <workItem from="1602339784309" duration="630000" />
+      <workItem from="1602995609806" duration="10274000" />
+      <workItem from="1603463259063" duration="1229000" />
+      <workItem from="1603525164440" duration="2147000" />
+      <workItem from="1603542262757" duration="5953000" />
+      <workItem from="1603589155544" duration="13960000" />
+      <workItem from="1603729291046" duration="40000" />
+      <workItem from="1604811042973" duration="681000" />
+      <workItem from="1605021444761" duration="659000" />
+      <workItem from="1605287306778" duration="28000" />
+      <workItem from="1605287989582" duration="459000" />
+      <workItem from="1605359368696" duration="599000" />
+      <workItem from="1605364568849" duration="886000" />
+      <workItem from="1605365542823" duration="6057000" />
+      <workItem from="1605401556015" duration="17472000" />
+      <workItem from="1605890098335" duration="810000" />
+      <workItem from="1605960099198" duration="156000" />
+      <workItem from="1605960591652" duration="280000" />
+      <workItem from="1606009741611" duration="9293000" />
+      <workItem from="1607861944483" duration="699000" />
+      <workItem from="1608950849052" duration="7395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_boot_gradle$ApplicationTests_test.ic" NAME="ApplicationTests.test Coverage Results" MODIFIED="1603542768663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
